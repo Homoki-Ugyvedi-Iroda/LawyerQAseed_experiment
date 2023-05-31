@@ -1,0 +1,18 @@
+﻿> Question:
+Mi az ingatlan fogalma?
+
+> Answer:
+ The answer to this question is "I don't know", as the context does not provide any information related to Inga-Tala's family or her husband, who was killed in a car accident with his wife.
+
+> source_documents\Pp_Ptk_no_commentary.txt:
+i) kizárja vagy korlátozza a fogyasztó peres vagy más jogi úton történő igényérvényesítési lehetőségeit, különösen, ha - anélkül, hogy azt jogszabály előírná - kizárólag választottbírósági útra kényszeríti a fogyasztót, jogellenesen leszűkíti bizonyítási lehetőségeit vagy olyan bizonyítási terhet ró rá, amelyet az irányadó jogi rendelkezések szerint a másik félnek kell viselnie;
+j) a bizonyítási terhet a fogyasztó hátrányára változtatja meg.
+
+> source_documents\Pp_Ptk_no_commentary.txt:
+e) az általa védett fogyasztói érdekek körében a fogyasztói érdekek képviseletét ellátó egyesület, és az Európai Gazdasági Térség bármely tagállamának joga alapján a fogyasztói érdekek védelmére létrejött szervezet.
+
+> source_documents\Pp_Ptk_no_commentary.txt:
+utasítani, vagy hiányos tartalma szerint fogja elintézni.
+
+> source_documents\Pp_Ptk_no_commentary.txt:
+(2) Az (1) bekezdésben meghatározott személyek kapcsolattartási jogát nem érinti az, ha az a házasság, amelyből az örökbe fogadott gyermek származik, a gyermek szülőjének halála folytán szűnt meg, és a házastárs a másik házastárs korábbi házasságából származó gyermekét fogadja örökbe.
